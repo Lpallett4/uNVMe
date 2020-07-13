@@ -1,4 +1,4 @@
-ifeq ($(KV_DIR),)
+sssssifeq ($(KV_DIR),)
 $(error KV_DIR is not defined)
 endif
 
